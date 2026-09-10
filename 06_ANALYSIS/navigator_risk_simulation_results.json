@@ -1,0 +1,44 @@
+{
+  "run_id": "RUN-009",
+  "seed": 20260909,
+  "n_reps": 20000,
+  "results": [
+    {
+      "scenario": "A: 등분산위반+표본불균형(작은표본n=5·큰분산sd=3 vs 큰표본n=15·작은분산sd=1), 실제 평균차이 없음",
+      "nominal_alpha": 0.05,
+      "student_type1_error_worst_case": 0.2234,
+      "welch_type1_error_worst_case": 0.0558,
+      "student_type1_error_opposite_pairing(작은표본·작은분산)": 0.0053,
+      "interpretation": "worst_case에서 Student's t가 명목 5%보다 크게 벗어나면(반자유도적) CLM-22(Welch 기본값화)의 근거가 되고, opposite_pairing과 비교하면 '작은표본-큰분산' 배치가 특히 위험함을 보여준다"
+    },
+    {
+      "scenario": "B: 우측왜도(지수분포) 데이터, 표본수별 t-test 1종오류율",
+      "nominal_alpha": 0.05,
+      "type1_error_by_n": {
+        "n=5": 0.0406,
+        "n=10": 0.0447,
+        "n=30": 0.04825,
+        "n=50": 0.05115
+      },
+      "interpretation": "n이 커질수록 5%에 수렴하면 CLT 완화효과(놓쳤던 점1) 확인; 작은 n에서만 벗어나면 표본수-조건부 경고가 타당"
+    },
+    {
+      "scenario": "C: 3그룹 실제차이 없음 — 반복 pairwise t-test(3회) vs 단일 ANOVA",
+      "nominal_alpha_per_test": 0.05,
+      "pairwise_familywise_error_rate": 0.12505,
+      "anova_type1_error": 0.05015,
+      "interpretation": "pairwise FWER이 5%를 크게 초과하고 ANOVA는 5%에 가까우면 위험5(다중비교 미보정)가 실질적임을 뒷받침"
+    },
+    {
+      "scenario": "D: 동일 AR(1) 공정을 전/후반부로 나눠 비교(실제 차이 없음), 자기상관 강도별 1종오류율",
+      "nominal_alpha": 0.05,
+      "type1_error_by_rho": {
+        "rho=0.0": 0.04675,
+        "rho=0.5": 0.25645,
+        "rho=0.7": 0.4084,
+        "rho=0.9": 0.63785
+      },
+      "interpretation": "rho가 커질수록(자기상관 강함) 1종오류율이 5%를 초과해 상승하면 위험7(독립성 미확인)이 실질적 위험임을 뒷받침"
+    }
+  ]
+}
