@@ -1,0 +1,13 @@
+id,title,type,status,owner,created,updated,path,notes
+DOC-0001,Project Index,index,active,Ian,2026-09-12,2026-09-12,index.md,Top-level navigation document
+DOC-0002,SmartStat Manufacturing 연구 워크스페이스,research-index,draft,Ian,2026-09-09,2026-09-09,README.md,Workspace purpose and constraints
+DOC-0003,Claude Project Guide,research-note,active,Ian,2026-09-12,2026-09-12,CLAUDE.md,Project-level operating guidance
+DOC-0004,Ingest Register,governance,active,Ian,2026-09-12,2026-09-12,00_GOVERNANCE/Ingest_Register.md,Tracked local ingestion inventory
+DOC-0005,LLM Extension Design Guide,research-note,active,Ian,2026-09-12,2026-09-12,00_GOVERNANCE/LLM_Extension_Design_Guide.md,LLM extension architecture and boundaries
+DOC-0006,LLM Security Options and Decision,research-note,active,Ian,2026-09-12,2026-09-12,00_GOVERNANCE/LLM_Security_Options_and_Decision.md,Security-first LLM decision record
+DOC-0007,LLM Wiki Index,wiki-index,active,Ian,2026-09-12,2026-09-12,LLM_wiki/index.md,LLM extension knowledge index
+DOC-0008,PRISM 통계분석 Add-on 지침서,development-specification,final,Ian,2026-09-12,2026-09-12,08_DELIVERABLES/Development_Guide_for_Claude_Code.md,Implementation-ready guidance for Claude Code
+DOC-0009,Final Report,report,active,Ian,2026-09-12,2026-09-12,08_DELIVERABLES/Final_Report.md,Executive synthesis and closing status
+DOC-0010,Research Handoff Package,delivery,active,Ian,2026-09-12,2026-09-12,08_DELIVERABLES/Research_Handoff_Package.md,Implementation handoff summary
+DOC-0011,LLM Extension Local Guide,project-guide,active,Ian,2026-09-12,2026-09-12,LLM_extention/CLAUDE.md,Local LLM project guidance and authority map
+DOC-0012,Design Decision Register,decision-register,active,Ian,2026-09-12,2026-09-12,LLM_extention/DD_Register.md,Current status of design decisions

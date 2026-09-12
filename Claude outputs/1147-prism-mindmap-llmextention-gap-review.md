@@ -11,7 +11,7 @@ updated: 2026-09-12
 # 통계분석 앱(PRISM/SmartStat) — 계층 마인드맵 제작 + LLM_extention 기획 Step1~7 검토 + 대화메모 저장 지침 재정비
 
 **세션 날짜**: 2026-09-11 ~ 2026-09-12 (Cowork, "제조 현장용 통계분석 앱 개발" 프로젝트)
-**이전 메모**: [2215-usability-키보드수정.md](../08/2215-usability-키보드수정.md) — 그 메모는 SecureVault(PWW Manager) 앱 작업이었고, 이번 메모는 완전히 다른 프로젝트(제조현장 CTQ 통계분석 앱 PRISM/SmartStat, Obsidian 볼트 `F:\obsidian\vault\통계분석앱\`)로 전환된 세션. 지난 9/8 이후 이 프로젝트 볼트에는 RUN-019~030까지 다수의 작업이 쌓였는데, 이 메모에서는 그중 **아직 개인 메모로 남기지 않은 최근 두 건(마인드맵, LLM_extention 검토)과 이번에 새로 발견·정비한 메모 저장 문제**만 기록함. RUN-019~028의 세부내용은 볼트의 `00_GOVERNANCE/Change_Log.md`가 원본.
+**이전 메모**: [00_GOVERNANCE/Change_Log.md](../00_GOVERNANCE/Change_Log.md) — 이 메모는 SecureVault(PWW Manager) 앱 작업과는 별개로, 제조현장 CTQ 통계분석 앱 PRISM/SmartStat 프로젝트에 대한 세션 전환 기록으로 재정리했다. 지난 9/8 이후 이 프로젝트 볼트에는 RUN-019~030까지 다수의 작업이 쌓였는데, 이 메모에서는 그중 **아직 개인 메모로 남기지 않은 최근 두 건(마인드맵, LLM_extention 검토)과 이번에 새로 발견·정비한 메모 저장 문제**만 기록함. RUN-019~028의 세부내용은 볼트의 `00_GOVERNANCE/Change_Log.md`가 원본.
 
 ## 이번 세션에서 한 일
 

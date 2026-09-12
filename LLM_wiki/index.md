@@ -42,10 +42,15 @@ updated: 2026-09-12
 - [../08_DELIVERABLES/Navigator_Question_Flow.md](../08_DELIVERABLES/Navigator_Question_Flow.md)
 
 ### LLM 확장
-- [../LLM_extention/1. LLM 통합을 위한 개념 재정의.md](../LLM_extention/1. LLM 통합을 위한 개념 재정의.md)
-- [../LLM_extention/3. LLM 확장 통계앱 기획을 위한 기본 설계.md](../LLM_extention/3. LLM 확장 통계앱 기획을 위한 기본 설계.md)
-- [../LLM_extention/6. Manufacturing Knowledge Architecture.md](../LLM_extention/6. Manufacturing Knowledge Architecture.md)
-- [../LLM_extention/8. Manufacturing Statistical Agent Brain Architecture.md](../LLM_extention/8. Manufacturing Statistical Agent Brain Architecture.md)
+- [../LLM_extention/01_개념정의_UseCase(Step1-4)/1. LLM 통합을 위한 개념 재정의.md](../LLM_extention/01_%EA%B0%9C%EB%85%90%EC%A0%95%EC%9D%98_UseCase%28Step1-4%29/1.%20LLM%20%ED%86%B5%ED%95%A9%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B0%9C%EB%85%90%20%EC%9E%AC%EC%A0%95%EC%9D%98.md)
+- [../LLM_extention/01_개념정의_UseCase(Step1-4)/3. LLM 확장 통계앱 기획을 위한 기본 설계.md](../LLM_extention/01_%EA%B0%9C%EB%85%90%EC%A0%95%EC%9D%98_UseCase%28Step1-4%29/3.%20LLM%20%ED%99%95%EC%9E%A5%20%ED%86%B5%EA%B3%84%EC%95%B4%ED%94%BD%20%EA%B8%B0%ED%9A%8D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EA%B3%84.md)
+- [../LLM_extention/02_Agent아키텍처(Step5-9)/6. Manufacturing Knowledge Architecture.md](../LLM_extention/02_Agent%EC%95%84%ED%82%A4%ED%85%8C%EC%B3%98%28Step5-9%29/6.%20Manufacturing%20Knowledge%20Architecture.md)
+- [../LLM_extention/02_Agent아키텍처(Step5-9)/8. Manufacturing Statistical Agent Brain Architecture.md](../LLM_extention/02_Agent%EC%95%84%ED%82%A4%ED%85%8C%EC%B3%98%28Step5-9%29/8.%20Manufacturing%20Statistical%20Agent%20Brain%20Architecture.md)
+- [../LLM_extention/03_MVP설계_실행엔진(Step10-15)/14. MVP technical Specification.md](../LLM_extention/03_MVP%EC%84%A4%EA%B3%84_%EC%8B%A4%ED%96%89%EC%97%94%EC%A7%84%28Step10-15%29/14.%20MVP%20technical%20Specification.md)
+- [../LLM_extention/05_GoldenCase_평가체계(Step21-24)/23. Golden Case-UC3-001 Synthetic Dataset 설계.md](../LLM_extention/05_GoldenCase_%ED%8F%89%EA%B0%80%EC%B2%B4%EA%B3%84%28Step21-24%29/23.%20Golden%20Case-UC3-001%20Synthetic%20Dataset%20%EC%84%A4%EA%B3%84.md)
+- [../LLM_extention/06_제품운영설계(Step25-31)/31. Final MVP Product Specification.md](../LLM_extention/06_%ED%92%88%ED%8C%8C%EC%98%A4%EC%97%85%EA%B2%8C%EC%84%A4%28Step25-31%29/31.%20Final%20MVP%20Product%20Specification.md)
+- [../LLM_extention/08_기준문서_Baseline/manufacturing-statistical-agent-design-notes.md](../LLM_extention/08_%EA%B8%B0%EC%A4%80%EB%AC%B8%EC%84%9C_Baseline/manufacturing-statistical-agent-design-notes.md)
+- [../LLM_extention/09_ARCHIVE/[완료] Gap_Analysis_Step1-7_검토.md](../LLM_extention/09_ARCHIVE/%5B%EC%99%84%EB%A3%8C%5D%20Gap_Analysis_Step1-7_%EA%B2%80%ED%86%A0.md)
 
 ## 문서 교차 링크 규칙
 
