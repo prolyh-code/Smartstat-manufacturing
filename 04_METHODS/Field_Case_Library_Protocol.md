@@ -6,7 +6,6 @@ status: draft
 owner: Ian
 created: 2026-09-09
 updated: 2026-09-09
-related: G7, RQ-09, RQ-10, GAP-06, CLM-09, CLM-10
 ---
 
 # 실제 가전 조립 현장 Case Library 수집 프로토콜

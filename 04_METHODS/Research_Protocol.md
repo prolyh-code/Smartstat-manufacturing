@@ -1,3 +1,13 @@
+---
+id: DOC-014
+title: Research_Protocol.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Research Protocol — SmartStat Manufacturing
 
 ## 연구 설계와 근거

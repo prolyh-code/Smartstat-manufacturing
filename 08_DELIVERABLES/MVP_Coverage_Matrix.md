@@ -6,8 +6,6 @@ status: proposed — Ian 검토 대기
 owner: Claude (Cowork)
 created: 2026-09-10
 updated: 2026-09-10 (v2.0 — 8개 분석 패키지 기준 전면 재작성, PRISM Add-on/무AI 프레이밍 반영; GAP-10 잔여 해소 반영 소폭 갱신)
-source: 통계분석 앱 제작 기획서.md §32,§34,§35,§45(SRC-000); 02_EVIDENCE/Case_Library_Register.csv CASE-001~008; 08_DELIVERABLES/Analysis_Package_Spec_*.md(8종)
-related: RQ-07, 헌장목표 G8/G9, FND-11, CLM-28, CLM-29, DEC-008~012
 ---
 
 # 분석 패키지 범위 대 Case Library 커버리지 매트릭스

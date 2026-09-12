@@ -5,8 +5,7 @@ type: design-requirements-proposal
 status: proposed — Ian 최종 승인 대기 (self-reviewed 근거, 독립검증 아님)
 owner: Claude (Cowork) 제안, Ian 결정
 created: 2026-09-09
-source: 04_METHODS/Navigator_Logic_Statistical_Audit.md (Review Pass 1~3); 06_ANALYSIS/navigator_risk_simulation_results.json (RUN-009)
-related: G2/G4(헌장목표), RQ-02, FND-09, FND-10, CLM-21~27, GAP-07(waived)
+updated: 2026-09-12
 ---
 
 # Analysis Navigator 설계 요구사항

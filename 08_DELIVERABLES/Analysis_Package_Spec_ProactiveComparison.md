@@ -5,7 +5,7 @@ type: development-specification
 status: draft — 모듈 카탈로그 조합 시범사례(신규 모듈 0개), Claude Code 개발 착수용 1차 명세
 owner: Ian(승인), Claude(Cowork)(작성)
 created: 2026-09-10
-related: 헌장목표 G9, DELIV-PKG-SPEC-001, DELIV-MODULE-LIBRARY-001, FND-08, CASE-001
+updated: 2026-09-12
 ---
 
 # 분석 패키지 명세 #6 — 예방적 비교 패키지

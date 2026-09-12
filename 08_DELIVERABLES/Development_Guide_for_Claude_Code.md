@@ -3,9 +3,9 @@ id: DELIV-DEVGUIDE-001
 title: PRISM 통계분석 Add-on — 프로그램 제작 지침서 (Claude Code 전달용)
 type: development-specification
 status: 배포용 최종본 — Ian이 PRISM 앱 폴더·기술 스택 문서와 함께 Claude Code에게 직접 전달 예정
-version: v1.0 (2026-09-10)
 owner: Ian(연구책임자/제품오너), Claude(Cowork)(연구·설계 수행)
-related: Final_Report.md(v2.1), Analysis_Module_Library_and_Composition_Rules.md(v1.2), Navigator_Question_Flow.md(v2), Analysis_Package_Spec_*.md(8종), GAP09_Interpretation_Template_Coverage_Matrix.md, Research_Handoff_Package.md
+created: 2026-09-12
+updated: 2026-09-12
 ---
 
 # PRISM 통계분석 Add-on — 프로그램 제작 지침서

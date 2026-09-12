@@ -5,7 +5,7 @@ type: development-specification
 status: draft — Claude Code 개발 착수용 1차 명세, PRISM 통합 세부사항은 GAP-08 해소 후 보강 필요
 owner: Ian(승인), Claude(Cowork)(작성)
 created: 2026-09-10
-related: 헌장목표 G5·G9, NAV-REQ-01/02/04, CLM-30~32, CASE-001/005/007, FND-10
+updated: 2026-09-12
 ---
 
 # 분석 패키지 명세 #1 — 개선 결과 검증 패키지

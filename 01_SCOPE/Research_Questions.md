@@ -1,3 +1,13 @@
+---
+id: DOC-010
+title: Research_Questions.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Research Questions and Hypotheses
 
 ## 결정 질문

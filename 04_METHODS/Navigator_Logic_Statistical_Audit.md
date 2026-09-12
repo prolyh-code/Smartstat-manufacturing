@@ -6,7 +6,6 @@ status: self-reviewed + simulation-quantified (2차 자기비판적 재검토 + 
 owner: Claude (Cowork) — self-audit + self-review, Ian 최종 판단
 created: 2026-09-09
 updated: 2026-09-09
-related: G2(헌장목표), RQ-02, GAP-03, GAP-07(waived, DEC-006)
 ---
 
 # Analysis Navigator 결정로직 통계이론 감사

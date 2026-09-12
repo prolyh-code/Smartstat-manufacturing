@@ -6,7 +6,6 @@ status: draft — 2차 명세(교체주기 최적화 모듈 통합, GAP-10 잔�
 owner: Ian(승인), Claude(Cowork)(작성)
 created: 2026-09-10
 updated: 2026-09-10 (M-RELY-REPLACEINTERVAL 통합 — SRC-153 확보 후 §3/§4/§6 갱신)
-related: 헌장목표 G9·G10, DEC-012, CLM-41~44/47, SRC-147/149/150/153, CASE-002
 ---
 
 # 분석 패키지 명세 #7 — 신뢰성/수명분석 패키지

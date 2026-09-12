@@ -1,3 +1,13 @@
+---
+id: DOC-013
+title: Analysis_Plan.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Analysis Plan
 
 > 본 문서는 P4(방법 동결) 게이트 이전 골격입니다. 실제 정량 데이터(사용자 조사·프로토타입 테스트 결과)가 수집되기 전까지 아래 항목은 설계 초안이며, 임계값·수용기준은 P4 승인 전 확정하지 않습니다.

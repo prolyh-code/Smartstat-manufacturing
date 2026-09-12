@@ -1,3 +1,13 @@
+---
+id: DOC-018
+title: Limitations_and_Open_Questions.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Limitations, Residual Risks, and Open Questions
 
 > 2026-09-10 갱신 — G6 Adjudication 시점 종합본. 이전(2026-09-09) 버전 대비 CASE-001 현장 인터뷰, 산업공통 문헌 7건, Navigator 3단계 자체검토(이론감사+재검토+시뮬레이션), MVP 커버리지 매트릭스가 추가로 반영됨.

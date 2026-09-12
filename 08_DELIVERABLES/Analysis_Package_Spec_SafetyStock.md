@@ -6,7 +6,6 @@ status: draft — 1차 명세, 재고관리 도메인(품질통계 아님) 특�
 owner: Ian(승인), Claude(Cowork)(작성)
 created: 2026-09-10
 updated: 2026-09-10 (Z값 교차검증 각주 추가 — SRC-154/CLM-48)
-related: 헌장목표 G9·G11, DEC-012, CLM-45/46/48, SRC-151/152/154, CASE-003
 ---
 
 # 분석 패키지 명세 #8 — 안전재고 산정 패키지

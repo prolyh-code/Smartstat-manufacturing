@@ -1,3 +1,13 @@
+---
+id: DOC-012
+title: README.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Raw Data — Read Only
 
 Do not modify, normalize, impute, or overwrite source data here. Record source locator, receipt time, size, hash, owner, access, licensing, and retention in the lineage register. Put transformations in a separate curated snapshot.

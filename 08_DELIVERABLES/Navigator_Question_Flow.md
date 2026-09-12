@@ -6,7 +6,6 @@ status: draft v2 — 2026-09-10 UX 재설계(DEC-011) 반영, Claude Code 개발
 owner: Ian(승인), Claude(Cowork)(작성)
 created: 2026-09-10
 updated: 2026-09-10 (v2)
-related: 헌장목표 G2·G9, NAV-REQ-01, DEC-011, Navigator_Design_Requirements.md, Analysis_Module_Library_and_Composition_Rules.md
 ---
 
 # Analysis Navigator — 스무고개 방식 질문 흐름

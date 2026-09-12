@@ -1,9 +1,11 @@
 ---
 id: DELIV-FINAL-001
 title: Final Research Report — PRISM 통계분석 Add-on
+type: research-note
 status: G6 Adjudication 완료(self-adjudicated) — Ian 최종 승인(accepted) 대기
-version: v2.1 (2026-09-10, RUN-024~026 반영 — MVP 커버리지 재검토 완료 표시로 정정, GAP-10 closed 반영, Claim-to-evidence 색인 CLM-48/SRC-154/FND-16/RUN-026/DEC-013까지 확장)
 owner: Ian(연구책임자/제품오너), Claude(Cowork)(조사·분석·자체검토 수행)
+created: 2026-09-12
+updated: 2026-09-12
 ---
 
 # Final Research Report — PRISM 통계분석 Add-on

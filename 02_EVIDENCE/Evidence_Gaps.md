@@ -1,3 +1,13 @@
+---
+id: DOC-011
+title: Evidence_Gaps.md
+type: research-note
+status: active
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
+---
+
 # Evidence Gaps
 
 > 2026-09-10 정정(DEC-008) 반영: 제품이 독립 앱이 아니라 PRISM Add-on(AI 미탑재)임이 확인되면서 GAP-04가 재정의되고, GAP-08(PRISM 기술정보)·GAP-09(해석 템플릿 커버리지)가 신규 최우선 항목으로 추가됨.

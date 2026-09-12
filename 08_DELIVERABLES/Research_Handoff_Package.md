@@ -1,8 +1,11 @@
 ---
 id: DELIV-HANDOFF-001
 title: Research Handoff Package — PRISM 통계분석 Add-on
+type: research-note
 status: 최종(G7 Translation 완료, 지속 갱신 중)
-version: v2.0 (2026-09-10, PRISM Add-on/무AI/분석패키지/모듈화 프레이밍 전면 반영 — v1.0의 "SmartStat Manufacturing 독립 앱" 프레이밍을 대체)
+owner: Ian
+created: 2026-09-12
+updated: 2026-09-12
 ---
 
 # Research Handoff Package — PRISM 통계분석 Add-on
